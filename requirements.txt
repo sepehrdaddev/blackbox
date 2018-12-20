@@ -1,0 +1,3 @@
+passlib
+pexpect
+requests
